@@ -1,6 +1,6 @@
 ### Greetings Stranger 👋
 
-  Hey I am Pushkar, full-stack developer. <img src="https://user-images.githubusercontent.com/44649555/194188028-a05edfc1-6cb0-4fe1-82d1-609fda613fcd.gif" height="50" width="50" > 
+  Hey I am Pushkar, full-stack developer.   <img src="https://user-images.githubusercontent.com/44649555/194188028-a05edfc1-6cb0-4fe1-82d1-609fda613fcd.gif" height="50" width="50" > 
 
   
 - 🔭 I’m currently working on -> Building a online learning platform.

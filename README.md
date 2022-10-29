@@ -9,5 +9,5 @@ Hey I am Pushkar, full-stack developer.   <img src="https://user-images.githubus
 - 💬 Ask me about -> Cooking, Philosophy
 
 - 📫 How to reach me -> [ ![Gmail Badge](https://img.shields.io/badge/-pushkarmahajan1027%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pushkarmahajan1027@gmail.com)](mailto:pushkarmahajan1027@gmail.com)
-- ⚡ Fun fact -> One day on Venus is longer than one Year.
+- [![@pm656v2's Holopin board](https://holopin.me/pm656v2)](https://holopin.io/@pm656v2)
 
